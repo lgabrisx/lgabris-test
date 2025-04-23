@@ -1,0 +1,14 @@
+{
+  "name": "discord-status-bot",
+  "version": "1.0.0",
+  "description": "Selfbot Discord status updater",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "discord.js-selfbot-v13": "^1.0.18",
+    "axios": "^1.6.7",
+    "express": "^4.19.2"
+  }
+}
